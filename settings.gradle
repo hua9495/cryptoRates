@@ -1,0 +1,2 @@
+rootProject.name='Crypto Rates'
+include ':app'
